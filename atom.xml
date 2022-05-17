@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Wangy-USTC.github.io</id>
+    <id>https://wangy-ustc.github.io/</id>
     <title>Wangy&apos;s Blog</title>
-    <updated>2022-05-17T08:20:26.214Z</updated>
+    <updated>2022-05-17T08:27:37.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Wangy-USTC.github.io"/>
-    <link rel="self" href="https://Wangy-USTC.github.io/atom.xml"/>
+    <link rel="alternate" href="https://wangy-ustc.github.io/"/>
+    <link rel="self" href="https://wangy-ustc.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Wangy-USTC.github.io/images/avatar.png</logo>
-    <icon>https://Wangy-USTC.github.io/favicon.ico</icon>
+    <logo>https://wangy-ustc.github.io/images/avatar.png</logo>
+    <icon>https://wangy-ustc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Wangy&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[testttt]]></title>
-        <id>https://Wangy-USTC.github.io/post/testttt/</id>
-        <link href="https://Wangy-USTC.github.io/post/testttt/">
+        <id>https://wangy-ustc.github.io/post/testttt/</id>
+        <link href="https://wangy-ustc.github.io/post/testttt/">
         </link>
         <updated>2022-05-17T07:06:25.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Wangy-USTC.github.io/post/hello-gridea/</id>
-        <link href="https://Wangy-USTC.github.io/post/hello-gridea/">
+        <id>https://wangy-ustc.github.io/post/hello-gridea/</id>
+        <link href="https://wangy-ustc.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
