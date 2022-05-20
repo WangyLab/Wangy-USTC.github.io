@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Wangy-USTC.github.io</id>
     <title>Wangy&apos;s Blog</title>
-    <updated>2022-05-20T02:53:15.792Z</updated>
+    <updated>2022-05-20T03:17:08.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Wangy-USTC.github.io"/>
     <link rel="self" href="https://Wangy-USTC.github.io/atom.xml"/>
@@ -11,12 +11,15 @@
     <icon>https://Wangy-USTC.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Wangy&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>https://Wangy-USTC.github.io/post/hello/</id>
-        <link href="https://Wangy-USTC.github.io/post/hello/">
+        <title type="html"><![CDATA[Gridea+github搭建自己的博客]]></title>
+        <id>https://Wangy-USTC.github.io/post/grideagithub-da-jian-zi-ji-de-bo-ke/</id>
+        <link href="https://Wangy-USTC.github.io/post/grideagithub-da-jian-zi-ji-de-bo-ke/">
         </link>
-        <updated>2022-05-20T02:46:34.000Z</updated>
-        <content type="html"><![CDATA[<p>大家好啊，欢迎来到我的博客</p>
+        <updated>2022-05-20T02:56:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>拥有一个自己的博客当作自己的技术分享博客是非常幸福的一件事。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>拥有一个自己的博客当作自己的技术分享博客是非常幸福的一件事。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
